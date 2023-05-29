@@ -1,1 +1,2 @@
-My second commit and push test on git 
+folder created with c, index.js and main.js files
+
